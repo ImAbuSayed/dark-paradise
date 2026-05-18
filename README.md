@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dark-paradise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dark Paradise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-paradise/) |
+| **Get License** | [Music Rights & Licensing for Dark Paradise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-paradise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera dark paradise
+> Girl you got me falling for those eyes
+> Dil mera lutt leya sohniye
+> Now I'm completely hypnotized
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
