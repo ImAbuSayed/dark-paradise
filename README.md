@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dark-paradise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dark Paradise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-paradise/) |
+| **Get License** | [Official Music Licensing for Dark Paradise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-paradise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dc413aefc7f69d2bfccb08b11ef4a2c666cd66660f73f218f1450b1cea40fbea` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

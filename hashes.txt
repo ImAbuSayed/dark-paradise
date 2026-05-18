@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dark Paradise
+
+This log tracks the cryptographic history and versioning for the song **Dark Paradise** (dark-paradise).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T16:27:02.471235 | `v1` | `dc413aefc7f69d2bfccb08b11ef4a2c666cd66660f73f218f1450b1cea40fbea` | `26318234c0413db44917c2aeab024bef97332d43436f86db21cddc9e170dbf16` | `2026-05-18_dark-paradise-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
